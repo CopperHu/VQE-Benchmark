@@ -42,7 +42,7 @@ HUAWEI Supercomputer
 ```
 
 ### Result
-![](./images/LiH.png )
+![](http://github.com/CopperHu/VQE-Benchmark/images/LiH.png )
 
 ## BeH2 molecule
 ### Settings
@@ -53,7 +53,7 @@ HUAWEI Supercomputer
 ```
 
 ### Result
-![](./images/BeH2.png )
+![](http://github.com/CopperHu/VQE-Benchmark/images/BeH2.png )
 
 ## H2O molecule
 ### Settings
@@ -64,7 +64,7 @@ HUAWEI Supercomputer
 ```
 
 ### Result
-![](./images/h2o.png )
+![](http://github.com/CopperHu/VQE-Benchmark/images/h2o.png )
 
 ## NH3 molecule
 ### Settings
@@ -75,7 +75,7 @@ HUAWEI Supercomputer
 ```
 
 ### Result
-![](./images/NH3.png )
+![](http://github.com/CopperHu/VQE-Benchmark/images/NH3.png )
 
 ## F2 molecule
 ### Settings
@@ -86,7 +86,7 @@ HUAWEI Supercomputer
 ```
 
 ### Result
-![](./images/F2.png 'PES of H2O')
+![](http://github.com/CopperHu/VQE-Benchmark/images/F2.png 'PES of H2O')
 
 ## Contributor
 Document writing: Jiaqi Hu 
