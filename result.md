@@ -42,7 +42,7 @@ HUAWEI Supercomputer
 ```
 
 ### Result
-![](http://github.com/CopperHu/VQE-Benchmark/images/LiH.png )
+![image](http://github.com/CopperHu/VQE-Benchmark/images/LiH.png )
 
 ## BeH2 molecule
 ### Settings
