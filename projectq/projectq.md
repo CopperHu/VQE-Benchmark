@@ -5,15 +5,18 @@
   - [LiH molecule](#lih-molecule)
     - [Settings](#settings)
     - [Result](#result)
-  - [BeH2 molecule](#beh2-molecule)
+  - [H6 chain](#h6-chain)
     - [Settings](#settings-1)
     - [Result](#result-1)
-  - [H2O molecule](#h2o-molecule)
+  - [BeH2 molecule](#beh2-molecule)
     - [Settings](#settings-2)
     - [Result](#result-2)
-  - [N2 molecule](#n2-molecule)
+  - [H2O molecule](#h2o-molecule)
     - [Settings](#settings-3)
     - [Result](#result-3)
+  - [N2 molecule](#n2-molecule)
+    - [Settings](#settings-4)
+    - [Result](#result-4)
 - [Contributor](#contributor)
 
 # projectq Benchmark Results
@@ -42,6 +45,21 @@ Taiyi HPC
 
 ### Result
 ![image](https://github.com/CopperHu/VQE-Benchmark/raw/master/images/LiH.png )
+Some data is not accurate.
+
+
+## H6 chain
+### Settings
+```
+ Basis: STO-3G
+ Transformation:Jordan-Wigner
+ Qubit number: 12
+```
+
+### Result
+![image](https://github.com/CopperHu/VQE-Benchmark/raw/master/images/LiH.png )
+Some data is not accurate.
+
 
 ## BeH2 molecule
 ### Settings
