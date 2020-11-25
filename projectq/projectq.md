@@ -26,8 +26,8 @@ The performance of different algorithms in projectq for different molecules
 | Module |    Name    |   WebPage |
 |:-------:|:-------:|:-------------:|
 | Molecule Modeling | PySCF | https://github.com/pyscf/pyscf |
-| Quantum simulator |   projectq  |        |
-| VQE algorithm | openfermion |  |
+| Quantum simulator |   projectq  | https://github.com/ProjectQ-Framework/ProjectQ |
+| VQE algorithm | openfermion | https://github.com/quantumlib/OpenFermion |
 
 ## Hardware Platform
 ```
@@ -44,7 +44,7 @@ Taiyi HPC
 ```
 
 ### Result
-![image](https://github.com/CopperHu/VQE-Benchmark/raw/master/images/LiH.png )
+![image](images/LiH.png )
 Some data is not accurate.
 
 
@@ -57,7 +57,7 @@ Some data is not accurate.
 ```
 
 ### Result
-![image](https://github.com/CopperHu/VQE-Benchmark/raw/master/images/LiH.png )
+![image](images/H6.png )
 Some data is not accurate.
 
 
@@ -70,7 +70,6 @@ Some data is not accurate.
 ```
 
 ### Result
-![image](https://github.com/CopperHu/VQE-Benchmark/raw/master/images/BeH2.png )
 
 ## H2O molecule
 ### Settings
@@ -81,7 +80,6 @@ Some data is not accurate.
 ```
 
 ### Result
-![image](https://github.com/CopperHu/VQE-Benchmark/raw/master/images/h2o.png )
 
 ## N2 molecule
 ### Settings
@@ -92,7 +90,6 @@ Some data is not accurate.
 ```
 
 ### Result
-![image](https://github.com/CopperHu/VQE-Benchmark/raw/master/images/h2o.png )
 
 # Contributor
 Benchmark and Document writing: Jiaqi Hu 
