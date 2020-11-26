@@ -23,8 +23,8 @@ The performance of different algorithms in Qulacs for different molecules
 | Module |    Name    |   WebPage |
 |:-------:|:-------:|:-------------:|
 | Molecule Modeling | PySCF | https://github.com/pyscf/pyscf |
-| Quantum simulator |   qulacs  |        |
-| VQE algorithm | Tequila |  |
+| Quantum simulator |   qulacs  |    https://github.com/qulacs/qulacs    |
+| VQE algorithm | Tequila | https://github.com/aspuru-guzik-group/tequila |
 
 ## Hardware Platform
 ```
@@ -41,7 +41,7 @@ Taiyi HPC
 ```
 
 ### Result
-![image](https://github.com/CopperHu/VQE-Benchmark/raw/master/images/LiH.png )
+![image](images/LiH.png )
 
 ## BeH2 molecule
 ### Settings
@@ -52,7 +52,7 @@ Taiyi HPC
 ```
 
 ### Result
-![image](https://github.com/CopperHu/VQE-Benchmark/raw/master/images/BeH2.png )
+![image](images/BeH2.png )
 
 ## H2O molecule
 ### Settings
@@ -63,7 +63,6 @@ Taiyi HPC
 ```
 
 ### Result
-![image](https://github.com/CopperHu/VQE-Benchmark/raw/master/images/h2o.png )
 
 ## N2 molecule
 ### Settings
@@ -74,7 +73,6 @@ Taiyi HPC
 ```
 
 ### Result
-![image](https://github.com/CopperHu/VQE-Benchmark/raw/master/images/h2o.png )
 
 # Contributor
 Benchmark and Document writing: Jiaqi Hu 
